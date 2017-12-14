@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+    <ModulePrefs title="My React Gadget" author="" author_email="" height="250" 
+        description="An example of an OpenSocial gadget built with React">
+        <Require feature="dynamic-height" />
+        <Require feature="views" />
+    </ModulePrefs>
+
+    <Content type="html" href="http://localhost:3000/" view="home,canvas" />
+</Module>
+
