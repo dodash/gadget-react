@@ -26,7 +26,7 @@ This will create a production build in the build directory. You can copy this in
 ## Differences From Create React App
 The Webpack will package resources in a static directory and insert references to them where appropriate. This confuses the OpenSocial renderer. Until this issue is resolved, place image resources in public directory and reference them with full URLs. See App.js for an example.
 
-## Adding to an Open Social Container (dashboard)
+## Adding to an Open Social Container (like [DevOps Dashboards](http://www.cccqcommunity.com/dashboard_beta.html))
 To add this gadget to an open social container, specify the URL to the gadget.xml file served by this React application, e.g.
 http://localhost:3000/gadget.xml
 If you change the host/port, make sure you edit the gadget.xml and App.js file accordingly.
