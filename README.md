@@ -1,4 +1,4 @@
-# An OpenSocial Gadget Written In React
+# An OpenSocial Gadget Written In React [![Build Status](https://travis-ci.org/dodash/gadget-react.svg?branch=master)](https://travis-ci.org/dodash/gadget-react)
 ## Intro
 This is an example project for creating an opensocial gadget for hosting in an opensocial container.
 
